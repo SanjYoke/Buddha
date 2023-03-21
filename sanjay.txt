@@ -1,0 +1,3 @@
+http://ecol-preview-1ad346dd200fe4fe3devaos.axcloud.dynamics.com/
+https://ecol-preview-1ad346dd200fe4fe3devaos.axcloud.dynamics.com/?cmp=101&mi=DefaultDashboard
+https://sharereports.smartbear.com/D3E4CEAABE1344819049C60084E9887F02/USEC_D365_20_Procure2pay_I&M
